@@ -1,7 +1,7 @@
 # <img src="https://cdn.jsdelivr.net/npm/@dunks1980/stringsticker.js/favicon.svg?v=1" width="40"> stringsticker.js
 [![npm version](https://img.shields.io/npm/v/@dunks1980/stringsticker.js)](https://npmjs.org/package/@dunks1980/stringsticker.js) 
 [![Known Vulnerabilities](https://snyk.io/test/github/dunks1980/stringsticker.js/badge.svg?targetFile=package.json)](https://snyk.io/test/github/dunks1980/stringsticker.js?targetFile=package.json) 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/Dunks1980/stringsticker.js/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/Dunks1980/stringsticker/main/LICENSE)
 [![](https://data.jsdelivr.com/v1/package/npm/@dunks1980/stringsticker.js/badge)](https://www.jsdelivr.com/package/npm/@dunks1980/stringsticker.js)
 
 <br/>
