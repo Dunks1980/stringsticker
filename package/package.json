@@ -1,0 +1,30 @@
+{
+  "name": "@dunks1980/stringsticker.js",
+  "version": "1.0.0",
+  "description": "A simple string rearrangement Tool",
+  "logo": "favicon.svg",
+  "main": "stringsticker.js",
+  "module": "stringsticker.mjs",
+  "scripts": {
+    "build": "node ./build.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dunks1980/stringsticker.git"
+  },
+  "keywords": [
+    "stringsticker.js",
+    "stringsticker",
+    "String",
+    "Sticker",
+    "Rearrangement",
+    "Tool"
+  ],
+  "author": "Ian Dunkerley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dunks1980/stringsticker.js/issues"
+  },
+  "homepage": "https://bayjs.org"
+}

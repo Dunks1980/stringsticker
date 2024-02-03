@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <script src="/package/stringsticker.js"></script>
+</head>
+
+<body>
+
+  <script type="module">
+    import ss from "/package/stringsticker.mjs";
+    // Example usage
+    const output1 = ss(
+      "Then she visited her grandmother on Sunday.",
+      "{{1}} {{2}} {{3}} {{4}} {{5}} {{6}} {{7}}.",
+      "{{1}} {{6}} {{7}} {{2}} {{3}} {{4}} {{5}}."
+    );
+    console.log(output1);  // Then on Sunday she visited her grandmother.
+
+    const output2 = ss(
+      "12/11/2024",
+      "{{day}}/{{month}}/{{year}}",
+      "{{year}}-{{month}}-{{day}}"
+    );
+    console.log(output2);  // 2024-11-12
+
+  </script>
+</body>
+
+</html>
