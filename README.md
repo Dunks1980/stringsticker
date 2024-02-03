@@ -76,3 +76,11 @@ const output2 = ss(
 );
 console.log(output2);  // 2024-11-12
 ```
+
+<br/>
+<hr/>
+<br/>
+
+## Demo
+
+https://codepen.io/Dunks1980/pen/rNRvZwe
