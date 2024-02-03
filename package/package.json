@@ -1,6 +1,6 @@
 {
   "name": "@dunks1980/stringsticker.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple string rearrangement Tool",
   "logo": "favicon.svg",
   "main": "stringsticker.js",
@@ -25,6 +25,5 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Dunks1980/stringsticker.js/issues"
-  },
-  "homepage": "https://bayjs.org"
+  }
 }
